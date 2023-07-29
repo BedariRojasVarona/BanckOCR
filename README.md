@@ -34,3 +34,4 @@ con una linea para cada número de cuenta, en este formato:
 
 Es decir, el archivo tiene un número de cuenta por fila. Si algunos caracteres son llegibles, se reemplazan por un "?". En el caso de que alguna suma de verificación sea incorrecta o existe algún número legible, este estado se indica en una segunda columna.
 
+# BanckOCR
